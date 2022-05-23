@@ -1,0 +1,12 @@
+table,
+th,
+td {
+    border: 1px solid black;
+    /* margin: auto; */
+    text-align: center;
+}
+
+input {
+    position: absolute;
+    left: 15vw;
+}
